@@ -23,7 +23,7 @@ Contains many types related to manipulating a Minecraft world, including entitie
 This is version 2.x.x of this module, which is the latest as of version 1.26.10-beta.26 of Minecraft.
 
 ## Available Versions
-- `2.7.0-beta`
+- `2.6.0-beta`
 - `2.5.0`
 - `2.4.0`
 - `2.3.0`
